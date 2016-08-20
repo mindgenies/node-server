@@ -1,0 +1,59 @@
+
+.ScheduleWidget .schedule .widgetHeader, .rioStarsWidget .widgetHeader, .rioVenuesWidget .venuesWidget .widgetHeader, .rioSportsWidget .widgetHeader, .galleryMainContainer .widgetHeader, .hisotryMainContainer .widgetHeader, .rioRecordsWidget .recordsWidget .widgetHeader, .liveBlog .widgetHeader, .newsWidget .newsWidgetContainer .widgetHeader, #newsWidgetHeader, .toggleableRhsWidgets.navigationMenu, .menus, #predictedMedalsWidget .medalswidgetcontainer .widgetHeader, #medalsWidget .medalswidgetcontainer .widgetHeader, .schedule .Events, .medalTally .medalTallyList .listHeader, .yearGraphicsContainer, .navigationMenu .menuItemSection .menus, .tablayoutContainer .searchtab img, #didYouKnowLHS .contentSection, .navigationMenu, .sliderthumblayout .newssearch .newssearchimg, .videos .widgetHeader, #didYouKnowRHS .dykContentSection {
+  background-color: #fcb132 !important;
+  /* brading theme dark red color. */ }
+
+.sliderthumblayout .sliderwrapper .pagination .active, .schedule .headerEventSlider .timeLineSliderSection .centerPanel ul li .rectangularBackground.active, .liveBlog #liveBlogEventSlider .eventsSection .panelCenter ul li.activeDay, .ScheduleWidget .schedule .headerEventSlider .eventsSection .panelCenter ul li.activeDay, .timeLineSliderSection .centerPanel ul li .rectangularBackground.active, .timeLineSliderSection .centerPanel ul li .circularBackground.active {
+  background-color: #f57921 !important;
+  /*selected or active but with dark color for eg. schedule timeline days slider*/ }
+
+.navigationMenu ul.navigaitonItem li a.active, .menuItemSection .menus ul.menuItem li.active, .blogpagination li.active, .liveBlog #liveBlogPagination .pagination li.active {
+  background-color: #f57921 !important;
+  /*selected or active with light color*/ }
+
+.schedule .headerEventSlider .eventsSection .panelCenter ul li:hover, .timeLineSliderSection .centerPanel ul li .rectangularBackground:hover, .tileLayout .tile:hover .title, .liveBlog #liveBlogEventSlider .eventsSection .panelCenter ul li:hover {
+  background-color: #fb9953 !important;
+  /*hover with dark color*/ }
+
+.menuItemSection .menus ul.menuItem li:hover, body .wrapperMainContainer .wrapperContentSection .rhs .navigationMenu ul.navigaitonItem li:hover {
+  background-color: #fb9953 !important;
+  /*hover with light color*/ }
+
+.liveBlog #liveBlogPagination .prevBtn, .liveBlog #liveBlogPagination .nextBtn, .liveBlog #liveBlogPagination .pagination li, .blogpagination li, .sliderthumblayout .newssearch .newssearchinput, .sliderthumblayout .sliderwrapper .newsprevbtn, .sliderthumblayout .sliderwrapper .pagination li, .sliderthumblayout .sliderwrapper .newsnextbtn, .sliderthumblayout .sliderwrapper .slideritems li.slideractive img {
+  border: #fdecd0 solid !important;
+  border-width: 1px !important;
+  /*border color*/ }
+
+.blogpagination li:last-child {
+  border-right: #fdecd0 1px solid !important;
+  /*border color*/ }
+
+.sliderthumblayout .sliderwrapper .slideritems li img:hover {
+  border: #fdecd0 2px solid !important;
+  /*hover with border*/ }
+
+body .wrapperMainContainer .wrapperContentSection .rhs .navigationMenu ul.navigaitonItem li a, #predictedMedalsWidget .medalswidgetcontainer .widgetHeader, #medalsWidget .medalswidgetcontainer .widgetHeader, body .wrapperMainContainer .wrapperContentSection .rhs .navigationMenu .menuItemSection .menus ul.menuItem li a,
+.medalTally .medalTallyList .listHeader, #didYouKnowLHS .contentSection .headerForLhs, #didYouKnowLHS .contentSection .contentText, #didYouKnowRHS .dykContentSection .contentText, .ScheduleWidget .schedule .widgetHeader .headertitle, .rioStarsWidget .widgetHeader .headertitle, .rioVenuesWidget .venuesWidget .widgetHeader .headertitle, .rioSportsWidget .widgetHeader .headertitle, #predictedMedalsWidget .medalswidgetcontainer .widgetHeader .headertitle, #medalsWidget .medalswidgetcontainer .widgetHeader .headertitle, .liveBlog .widgetHeader .headertitle, .hisotryMainContainer .widgetHeader .headertitle, .galleryMainContainer .widgetHeader .headertitle, .newsWidget .newsWidgetContainer .widgetHeader .headertitle, .rioRecordsWidget .recordsWidget .widgetHeader .headertitle, .sliderthumblayout .sliderwrapper .pagination .active a, .yearGraphicsContainer .leftSide, .liveBlog #liveBlogPagination .pagination .active a, .tileLayout .tile .title span, .ScheduleWidget .schedule .headerEventSlider .eventsSection .panelCenter ul li.activeDay, .ScheduleWidget .schedule .headerEventSlider .eventsSection .panelCenter ul li:hover, .videos .widgetHeader .headertitle, .timeLineSliderSection .centerPanel ul li .rectangularBackground.active, .timeLineSliderSection .centerPanel ul li .rectangularBackground:hover, .timeLineSliderSection .centerPanel ul li .circularBackground.active, .timeLineSliderSection .centerPanel ul li .circularBackground:hover {
+  color: #80602 !important;
+  /*font-color eg.now white widget  header*/ }
+
+.popUpContainer .popUpMainTitle, .popUpContainer .popUpSectionTitle, .ScheduleWidget .schedule #scheduleEventHistory .contentPrimary .popupHeader, .ScheduleWidget .schedule #scheduleEventHistory .contentSecondary, .ScheduleWidget .schedule #scheduleEventHistory a, #scheduleEventHistory .formGuideMetaData .venueLink, .sliderthumblayout .sliderwrapper .pagination li a, .hisotryMainContainer .historyContentSection .historyContent .historyContentSecondary, .hisotryMainContainer .historyContentSection .historyContent .historyContentPrimary, .liveBlog #liveBlogPagination .pagination li a, #scheduleEventHistory .contentPrimary .popupHeader .content > div, #scheduleEventHistory .contentSecondary, #scheduleEventHistory a {
+  color: #80602 !important;
+  /*font color similar to widget theme*/ }
+
+.sliderthumblayout .sliderwrapper .slideritems li.slideractive img {
+  border-width: 2px !important; }
+
+.liveBlog #liveBlogPagination .prevBtn {
+  border-right: 0px !important; }
+
+.liveBlog #liveBlogPagination .pagination li {
+  border-right: 0px !important; }
+
+.blogpagination li {
+  border-right: 0 !important; }
+
+.sportseventscontainer .sportseventslayout .sportseventscontainer .sportscontainer .eventcontainer .rankblockcontainer .rankblock.isPreferredCountry {
+  background-color: #95FFFF !important;
+  /*preferred country background color*/ }
+

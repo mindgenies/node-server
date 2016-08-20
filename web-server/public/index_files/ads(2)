@@ -1,0 +1,39 @@
+{
+
+var google_ads = new Array();
+var google_ad;
+var google_radlinks = new Array();
+var google_radlink;
+var google_info = new Object();
+google_ad = {}; 
+google_ad.n = 1; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = "contextual"; 
+google_ad.url = "https://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=C-lMAyLOxV7-jNdSooAPUy5TwDLPo369GgpOnn4gDwI23ARABINjQkRFg5YKAgLwOoAGOtsb2A8gBAakCH0WaRfAOUD6oAwGqBIQBT9DL7cFBOTqTQXO32D_zj0wJ__qNpHmuv1X5hLHKSwGQwTKQJMg16QF_asKQxQkWfT8bi3IXph1TEI4ItArEJ3pRZvlDvCkoPtF-FyUNUbsD1-Y8V7OduEE4wohiKNDTk7ZALYaO-pKOTlTO6uZGhjfDfiNG6mWE_cluiRJm029aLPtliAYBgAfaybkJqAeBxhuoB6a-G9gHAdgTCA&amp;num=1&amp;cid=CAASEuRoExt7ZM7s9Hfbh_dUlKncqA&amp;sig=AOD64_0djoqSkiprN6gV_o_5WP0jB8LrYw&amp;client=ca-navbharattimes_site_js&amp;adurl=http://www.apnapaisa.com/loan/home-loan-india/emi.html%3FAdGroupId%3DP-N-Goog-Txn-HL-5-3%26ef_id%3D--d-105203629154-none-c%26ImSource%3Dgoog"; 
+google_ad.visible_url = "apnapaisa.com/EmiCalculator"; 
+google_ad.p_creative_view_url = "";
+google_ad.p_engaged_view_url = "";
+google_ad.p_videoplaytime_25_url = "";
+google_ad.p_videoplaytime_50_url = "";
+google_ad.p_videoplaytime_75_url = "";
+google_ad.p_videoplaytime_100_url = "";
+google_ad.log_info = "BH2q6yLOxV7-jNdSooAPUy5TwDACCk6efiAMAABABOAHIAQHCEwYYjrbG9gM";
+google_ad.activeview_cid = "CAASFeRoExt7ZM7s9Hfbh_dUlKncqIC47g";
+google_ad.activeview_js_immediate_enabled = "true";
+google_ad.activeview_metadata = "ud=1&la=0&alp=ai&alh=2133210080&";
+google_ad.line1 = "Home Loan EMI Calculator"; 
+google_ad.line2 = "How much EMI will you have to pay?"; 
+google_ad.line3 = "Just enter amount, tenure \x26amp; rate"; 
+google_ad.regionname = ""; 
+google_ads[0] = google_ad; 
+google_info.feedback_url = "https://www.google.com/url?ct\x3dabg\x26q\x3dhttps://www.google.com/adsense/support/bin/request.py%3Fcontact%3Dabg_afc%26url%3Dhttp://timesofindia.indiatimes.com/%26gl%3DIN%26hl%3Den%26client%3Dca-navbharattimes_site_js%26hideleadgen%3D1%26ai0%3DC-lMAyLOxV7-jNdSooAPUy5TwDLPo369GgpOnn4gDwI23ARABINjQkRFg5YKAgLwOoAGOtsb2A8gBAakCH0WaRfAOUD6oAwGqBIQBT9DL7cFBOTqTQXO32D_zj0wJ__qNpHmuv1X5hLHKSwGQwTKQJMg16QF_asKQxQkWfT8bi3IXph1TEI4ItArEJ3pRZvlDvCkoPtF-FyUNUbsD1-Y8V7OduEE4wohiKNDTk7ZALYaO-pKOTlTO6uZGhjfDfiNG6mWE_cluiRJm029aLPtliAYBgAfaybkJqAeBxhuoB6a-G9gHAdgTCA\x26usg\x3dAFQjCNEYsxillP1UHPyb7WwBMr8hPrBKdA";
+var google_attribution_text = "Ads by Google";
+var google_is_rtl = false;
+if (window.google_ad_request_done) {
+google_ad_request_done(google_ads);
+}
+if (window.google_radlink_request_done) {
+google_radlink_request_done(google_radlinks);
+}
+}

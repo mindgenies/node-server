@@ -1,0 +1,61 @@
+{
+
+var google_ads = new Array();
+var google_ad;
+var google_radlinks = new Array();
+var google_radlink;
+var google_info = new Object();
+google_ad = {}; 
+google_ad.n = 1; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = "contextual"; 
+google_ad.url = "https://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=C_fwsyLOxV4nENcvLogP0g7aQAszj9bFG54z1ofYCwI23ARABINjQkREoAmDlgoCAvA6gAfHv9uUDyAEBqAMBqgSCAU_Qwxi5ZeKhTqkgsdQR3d7-Itv6r8tT9Bsl5ygQE79S7cDA_nVuRJZaAQk1uFHxlE6baTThvhJOWy9oO5FkF8jI67ax7GqXcy7xic5e2Ne09xHRGDEr4vEglmwOSnb-9JcnhDAiHkxuuEvtGsgMX4eBnQxx6GQ2KJf-A_eMfDC6C-2IBgGAB_ePiRqoB4HGG6gHpr4b2AcB2BMM&amp;num=2&amp;cid=CAASEuRo2qu1d3rAlRZVdVmDFsHUCQ&amp;sig=AOD64_0UOKFWSPc4RdlrOyuon4O6HwaDEw&amp;client=ca-navbharattimes_site_js&amp;adurl=http://unzipper.com/rd2/index.php%3Fid%3D91500Lz9zb3VyY2U9Z29vZ2xl"; 
+google_ad.visible_url = "unzipper.com/extractor"; 
+google_ad.p_creative_view_url = "";
+google_ad.p_engaged_view_url = "";
+google_ad.p_videoplaytime_25_url = "";
+google_ad.p_videoplaytime_50_url = "";
+google_ad.p_videoplaytime_75_url = "";
+google_ad.p_videoplaytime_100_url = "";
+google_ad.log_info = "Blu49yLOxV4nENcvLogP0g7aQAgDnjPWh9gIAABABOAHIAQHCEx8KERC_w4WsggEiCAgCEAEYASAAGPHv9uUDGI62xvYD";
+google_ad.activeview_cid = "CAASFeRo2qu1d3rAlRZVdVmDFsHUCUINBQ";
+google_ad.activeview_js_immediate_enabled = "true";
+google_ad.activeview_metadata = "ud=1&la=0&";
+google_ad.line1 = "Download"; 
+google_ad.line2 = "Zip Or Unzip Any File."; 
+google_ad.line3 = "Free Download. Unzipper."; 
+google_ad.regionname = ""; 
+google_ads[0] = google_ad; 
+google_ad = {}; 
+google_ad.n = 2; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = "contextual"; 
+google_ad.url = "https://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=CrisIyLOxV4nENcvLogP0g7aQArPo369GgpOnn4gDwI23ARACINjQkREoAmDlgoCAvA6gAY62xvYDyAEBqQIfRZpF8A5QPqgDAaoEhAFP0NOKKWbCoMSoicSmCNHA9Dfd8qLMVrMTZeovFQ63S-Hei-40YPH6o2heKbwfroEV3XA4_7QHSFMibz7WbFfFz-6rufVmiTg-sIeOy_YuNfSQGxtOz6QRc-RsD0p3rvbHJco2cRi5ZbhHGB0dDn-GdJ75suCsyyNi_QX3anp3GVtt-eKIBgGAB9rJuQmoB4HGG6gHpr4b2AcB2BMI&amp;num=1&amp;cid=CAASEuRo2qu1d3rAlRZVdVmDFsHUCQ&amp;sig=AOD64_37qhRixcNS1JLfo684_1eebTtPWg&amp;client=ca-navbharattimes_site_js&amp;adurl=http://www.apnapaisa.com/loan/home-loan-india/emi.html%3FAdGroupId%3DP-N-Goog-Txn-HL-5-3%26ef_id%3D--d-105203629154-none-c%26ImSource%3Dgoog"; 
+google_ad.visible_url = "apnapaisa.com/EmiCalculator"; 
+google_ad.p_creative_view_url = "";
+google_ad.p_engaged_view_url = "";
+google_ad.p_videoplaytime_25_url = "";
+google_ad.p_videoplaytime_50_url = "";
+google_ad.p_videoplaytime_75_url = "";
+google_ad.p_videoplaytime_100_url = "";
+google_ad.log_info = "Blu49yLOxV4nENcvLogP0g7aQAgDnjPWh9gIAABABOAHIAQHCEx8KERC_w4WsggEiCAgCEAEYASAAGPHv9uUDGI62xvYD";
+google_ad.activeview_cid = "CAASFeRo2qu1d3rAlRZVdVmDFsHUCUINBQ";
+google_ad.activeview_js_immediate_enabled = "true";
+google_ad.activeview_metadata = "ud=1&la=0&";
+google_ad.line1 = "Home Loan EMI Calculator"; 
+google_ad.line2 = "How much EMI will you have to pay?"; 
+google_ad.line3 = "Just enter amount, tenure \x26amp; rate"; 
+google_ad.regionname = ""; 
+google_ads[1] = google_ad; 
+google_info.feedback_url = "https://www.google.com/url?ct\x3dabg\x26q\x3dhttps://www.google.com/adsense/support/bin/request.py%3Fcontact%3Dabg_afc%26url%3Dhttp://timesofindia.indiatimes.com/%26gl%3DIN%26hl%3Den%26client%3Dca-navbharattimes_site_js%26hideleadgen%3D1%26ai0%3DC_fwsyLOxV4nENcvLogP0g7aQAszj9bFG54z1ofYCwI23ARABINjQkREoAmDlgoCAvA6gAfHv9uUDyAEBqAMBqgSCAU_Qwxi5ZeKhTqkgsdQR3d7-Itv6r8tT9Bsl5ygQE79S7cDA_nVuRJZaAQk1uFHxlE6baTThvhJOWy9oO5FkF8jI67ax7GqXcy7xic5e2Ne09xHRGDEr4vEglmwOSnb-9JcnhDAiHkxuuEvtGsgMX4eBnQxx6GQ2KJf-A_eMfDC6C-2IBgGAB_ePiRqoB4HGG6gHpr4b2AcB2BMM%26ai1%3DCrisIyLOxV4nENcvLogP0g7aQArPo369GgpOnn4gDwI23ARACINjQkREoAmDlgoCAvA6gAY62xvYDyAEBqQIfRZpF8A5QPqgDAaoEhAFP0NOKKWbCoMSoicSmCNHA9Dfd8qLMVrMTZeovFQ63S-Hei-40YPH6o2heKbwfroEV3XA4_7QHSFMibz7WbFfFz-6rufVmiTg-sIeOy_YuNfSQGxtOz6QRc-RsD0p3rvbHJco2cRi5ZbhHGB0dDn-GdJ75suCsyyNi_QX3anp3GVtt-eKIBgGAB9rJuQmoB4HGG6gHpr4b2AcB2BMI\x26usg\x3dAFQjCNG4TeuQd9iL2t3tcfQPIhZ9xDMSGg";
+var google_attribution_text = "Ads by Google";
+var google_is_rtl = false;
+if (window.google_ad_request_done) {
+google_ad_request_done(google_ads);
+}
+if (window.google_radlink_request_done) {
+google_radlink_request_done(google_radlinks);
+}
+}

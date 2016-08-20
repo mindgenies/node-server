@@ -1,0 +1,39 @@
+{
+
+var google_ads = new Array();
+var google_ad;
+var google_radlinks = new Array();
+var google_radlink;
+var google_info = new Object();
+google_ad = {}; 
+google_ad.n = 1; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = "contextual"; 
+google_ad.url = "https://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=C9MUGyLOxV_2QNY7KogOysLugAsbKmpxE4MC6r8AC07Ps6EcQASDY0JERYOWCgIC8DqABmKT-5QPIAQGpApCjw6jIEFA-qAMBqgSNAU_Qmiy0UdomCz_72QW0M8Zca9Q_9eQSoTWMaSXOp1-Sugp-D2igRZWj3Le2S3b3Qu28qAF7CliC9r7xhYhxQenvxZH_VQAgj9PO6temDr2adNgXdA9us8eZlmfbiJ3iPxEmVpSnXSokiiJQLC9m0csOuR2lYjr5s8N_vZqY2A0H9ESEdXoNC2trfuFhU4gGAYAH0NuBGqgHpr4b2AcB2BMI&amp;num=1&amp;cid=CAASEuRotdZoIwppBYeuQF7Psm7SrA&amp;sig=AOD64_2d0D3XTuGq6J63jHa27piKYivB_A&amp;client=ca-navbharattimes_site_js&amp;adurl=http://clickserve.dartsearch.net/link/click%3F%26%26ds_e_adid%3D85896971784%26ds_e_matchtype%3Dcontent%26ds_e_device%3Dc%26ds_e_network%3Dd%26%26ds_url_v%3D2%26ds_dest_url%3Dhttps://www.myuniverse.co.in/zipsip%3Futm_source%3Dgoogledco%26utm_medium%3Dad_text_zipsip_dco%26AdGroupId%3DPa-Jou-GDN-Dir-Goog-DCZI%26DmId%3DZipSip_D_DCO!Ad_Text%24%26utm_source%3Dgoogle"; 
+google_ad.visible_url = "www.myuniverse.co.in/ZipSip"; 
+google_ad.p_creative_view_url = "";
+google_ad.p_engaged_view_url = "";
+google_ad.p_videoplaytime_25_url = "";
+google_ad.p_videoplaytime_50_url = "";
+google_ad.p_videoplaytime_75_url = "";
+google_ad.p_videoplaytime_100_url = "";
+google_ad.log_info = "B5XGNyLOxV_2QNY7KogOysLugAgDgwLqvwAIAABABOAHIAQHCEwYYmKT-5QM";
+google_ad.activeview_cid = "CAASFeRotdZoIwppBYeuQF7Psm7SrEEsJw";
+google_ad.activeview_js_immediate_enabled = "true";
+google_ad.activeview_metadata = "ud=1&la=0&";
+google_ad.line1 = "Top SIP Investment plans"; 
+google_ad.line2 = "Compare \x26amp; invest in best Funds."; 
+google_ad.line3 = "0 paper work. Start today."; 
+google_ad.regionname = ""; 
+google_ads[0] = google_ad; 
+google_info.feedback_url = "https://www.google.com/url?ct\x3dabg\x26q\x3dhttps://www.google.com/adsense/support/bin/request.py%3Fcontact%3Dabg_afc%26url%3Dhttp://timesofindia.indiatimes.com/%26gl%3DIN%26hl%3Den%26client%3Dca-navbharattimes_site_js%26hideleadgen%3D1%26ai0%3DC9MUGyLOxV_2QNY7KogOysLugAsbKmpxE4MC6r8AC07Ps6EcQASDY0JERYOWCgIC8DqABmKT-5QPIAQGpApCjw6jIEFA-qAMBqgSNAU_Qmiy0UdomCz_72QW0M8Zca9Q_9eQSoTWMaSXOp1-Sugp-D2igRZWj3Le2S3b3Qu28qAF7CliC9r7xhYhxQenvxZH_VQAgj9PO6temDr2adNgXdA9us8eZlmfbiJ3iPxEmVpSnXSokiiJQLC9m0csOuR2lYjr5s8N_vZqY2A0H9ESEdXoNC2trfuFhU4gGAYAH0NuBGqgHpr4b2AcB2BMI\x26usg\x3dAFQjCNGUfjw4pgRt3VJzwffpRl3OJusalg";
+var google_attribution_text = "Ads by Google";
+var google_is_rtl = false;
+if (window.google_ad_request_done) {
+google_ad_request_done(google_ads);
+}
+if (window.google_radlink_request_done) {
+google_radlink_request_done(google_radlinks);
+}
+}
